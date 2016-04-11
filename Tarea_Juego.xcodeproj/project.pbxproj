@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		1085658B1CBB4A9200B603E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1085658A1CBB4A9200B603E2 /* AppDelegate.swift */; };
-		1085658D1CBB4A9200B603E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1085658C1CBB4A9200B603E2 /* ViewController.swift */; };
-		108565901CBB4A9300B603E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1085658E1CBB4A9300B603E2 /* Main.storyboard */; };
-		108565921CBB4A9300B603E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 108565911CBB4A9300B603E2 /* Assets.xcassets */; };
-		108565951CBB4A9300B603E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 108565931CBB4A9300B603E2 /* LaunchScreen.storyboard */; };
-		108565A01CBB4A9300B603E2 /* Tarea_JuegoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1085659F1CBB4A9300B603E2 /* Tarea_JuegoTests.swift */; };
-		108565AB1CBB4A9300B603E2 /* Tarea_JuegoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108565AA1CBB4A9300B603E2 /* Tarea_JuegoUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		1085659C1CBB4A9300B603E2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,19 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		108565871CBB4A9200B603E2 /* Tarea_Juego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tarea_Juego.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1085658A1CBB4A9200B603E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1085658C1CBB4A9200B603E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1085658F1CBB4A9300B603E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		108565911CBB4A9300B603E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		108565941CBB4A9300B603E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		108565961CBB4A9300B603E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1085659B1CBB4A9300B603E2 /* Tarea_JuegoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tarea_JuegoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1085659F1CBB4A9300B603E2 /* Tarea_JuegoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_JuegoTests.swift; sourceTree = "<group>"; };
-		108565A11CBB4A9300B603E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		108565A61CBB4A9300B603E2 /* Tarea_JuegoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tarea_JuegoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		108565AA1CBB4A9300B603E2 /* Tarea_JuegoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_JuegoUITests.swift; sourceTree = "<group>"; };
-		108565AC1CBB4A9300B603E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		108565871CBB4A9200B603E2 /* Tarea_Juego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Tarea_Juego.app; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_Juego.app"; sourceTree = "<absolute>"; };
+		1085659B1CBB4A9300B603E2 /* Tarea_JuegoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoTests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoTests.xctest"; sourceTree = "<absolute>"; };
+		108565A61CBB4A9300B603E2 /* Tarea_JuegoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoUITests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoUITests.xctest"; sourceTree = "<absolute>"; };
+		108565B81CBB53BD00B603E2 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,52 +58,8 @@
 		1085657E1CBB4A9200B603E2 = {
 			isa = PBXGroup;
 			children = (
-				108565891CBB4A9200B603E2 /* Tarea_Juego */,
-				1085659E1CBB4A9300B603E2 /* Tarea_JuegoTests */,
-				108565A91CBB4A9300B603E2 /* Tarea_JuegoUITests */,
-				108565881CBB4A9200B603E2 /* Products */,
+				108565B81CBB53BD00B603E2 /* juegoDeMemoria.playground */,
 			);
-			sourceTree = "<group>";
-		};
-		108565881CBB4A9200B603E2 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				108565871CBB4A9200B603E2 /* Tarea_Juego.app */,
-				1085659B1CBB4A9300B603E2 /* Tarea_JuegoTests.xctest */,
-				108565A61CBB4A9300B603E2 /* Tarea_JuegoUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		108565891CBB4A9200B603E2 /* Tarea_Juego */ = {
-			isa = PBXGroup;
-			children = (
-				1085658A1CBB4A9200B603E2 /* AppDelegate.swift */,
-				1085658C1CBB4A9200B603E2 /* ViewController.swift */,
-				1085658E1CBB4A9300B603E2 /* Main.storyboard */,
-				108565911CBB4A9300B603E2 /* Assets.xcassets */,
-				108565931CBB4A9300B603E2 /* LaunchScreen.storyboard */,
-				108565961CBB4A9300B603E2 /* Info.plist */,
-			);
-			path = Tarea_Juego;
-			sourceTree = "<group>";
-		};
-		1085659E1CBB4A9300B603E2 /* Tarea_JuegoTests */ = {
-			isa = PBXGroup;
-			children = (
-				1085659F1CBB4A9300B603E2 /* Tarea_JuegoTests.swift */,
-				108565A11CBB4A9300B603E2 /* Info.plist */,
-			);
-			path = Tarea_JuegoTests;
-			sourceTree = "<group>";
-		};
-		108565A91CBB4A9300B603E2 /* Tarea_JuegoUITests */ = {
-			isa = PBXGroup;
-			children = (
-				108565AA1CBB4A9300B603E2 /* Tarea_JuegoUITests.swift */,
-				108565AC1CBB4A9300B603E2 /* Info.plist */,
-			);
-			path = Tarea_JuegoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +150,7 @@
 				Base,
 			);
 			mainGroup = 1085657E1CBB4A9200B603E2;
-			productRefGroup = 108565881CBB4A9200B603E2 /* Products */;
+			productRefGroup = 1085657E1CBB4A9200B603E2;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -229,9 +166,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				108565951CBB4A9300B603E2 /* LaunchScreen.storyboard in Resources */,
-				108565921CBB4A9300B603E2 /* Assets.xcassets in Resources */,
-				108565901CBB4A9300B603E2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +190,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1085658D1CBB4A9200B603E2 /* ViewController.swift in Sources */,
-				1085658B1CBB4A9200B603E2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +197,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				108565A01CBB4A9300B603E2 /* Tarea_JuegoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +204,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				108565AB1CBB4A9300B603E2 /* Tarea_JuegoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,25 +221,6 @@
 			targetProxy = 108565A71CBB4A9300B603E2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		1085658E1CBB4A9300B603E2 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1085658F1CBB4A9300B603E2 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		108565931CBB4A9300B603E2 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				108565941CBB4A9300B603E2 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		108565AD1CBB4A9300B603E2 /* Debug */ = {
@@ -401,7 +312,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tarea_Juego/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "pruena.Tarea-Juego";
+				PRODUCT_BUNDLE_IDENTIFIER = "prueba.Tarea-Juego";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -412,7 +323,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tarea_Juego/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "pruena.Tarea-Juego";
+				PRODUCT_BUNDLE_IDENTIFIER = "prueba.Tarea-Juego";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
