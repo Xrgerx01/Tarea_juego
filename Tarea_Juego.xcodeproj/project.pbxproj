@@ -24,10 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		108565871CBB4A9200B603E2 /* Tarea_Juego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Tarea_Juego.app; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_Juego.app"; sourceTree = "<absolute>"; };
-		1085659B1CBB4A9300B603E2 /* Tarea_JuegoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoTests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoTests.xctest"; sourceTree = "<absolute>"; };
-		108565A61CBB4A9300B603E2 /* Tarea_JuegoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoUITests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoUITests.xctest"; sourceTree = "<absolute>"; };
 		108565B81CBB53BD00B603E2 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
+		108565BB1CBB579100B603E2 /* Tarea_Juego.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Tarea_Juego.app; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_Juego.app"; sourceTree = "<absolute>"; };
+		108565BC1CBB579100B603E2 /* Tarea_JuegoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoTests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoTests.xctest"; sourceTree = "<absolute>"; };
+		108565BD1CBB579100B603E2 /* Tarea_JuegoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Tarea_JuegoUITests.xctest; path = "/Users/xrgerx/Desktop/Gibhut/Tarea_Juego/build/Debug-iphoneos/Tarea_JuegoUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,7 @@
 			);
 			name = Tarea_Juego;
 			productName = Tarea_Juego;
-			productReference = 108565871CBB4A9200B603E2 /* Tarea_Juego.app */;
+			productReference = 108565BB1CBB579100B603E2 /* Tarea_Juego.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1085659A1CBB4A9300B603E2 /* Tarea_JuegoTests */ = {
@@ -97,7 +97,7 @@
 			);
 			name = Tarea_JuegoTests;
 			productName = Tarea_JuegoTests;
-			productReference = 1085659B1CBB4A9300B603E2 /* Tarea_JuegoTests.xctest */;
+			productReference = 108565BC1CBB579100B603E2 /* Tarea_JuegoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		108565A51CBB4A9300B603E2 /* Tarea_JuegoUITests */ = {
@@ -115,7 +115,7 @@
 			);
 			name = Tarea_JuegoUITests;
 			productName = Tarea_JuegoUITests;
-			productReference = 108565A61CBB4A9300B603E2 /* Tarea_JuegoUITests.xctest */;
+			productReference = 108565BD1CBB579100B603E2 /* Tarea_JuegoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -393,6 +393,7 @@
 				108565B11CBB4A9300B603E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		108565B21CBB4A9300B603E2 /* Build configuration list for PBXNativeTarget "Tarea_JuegoTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +402,7 @@
 				108565B41CBB4A9300B603E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		108565B51CBB4A9300B603E2 /* Build configuration list for PBXNativeTarget "Tarea_JuegoUITests" */ = {
 			isa = XCConfigurationList;
@@ -409,6 +411,7 @@
 				108565B71CBB4A9300B603E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
