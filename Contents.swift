@@ -4,9 +4,7 @@ TAREA VELOCIMETRO AUTOMÓVIL DIGITAL
 
 Versión 1.0
 
-Alumno: Juan Antonio Ramírez Reyes
-
-Entregado: Miércoles, 01 de junio de 2016
+Alumno: Roger Alexander Chiroque Ramirez
 
 */
 
